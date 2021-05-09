@@ -7,4 +7,4 @@
 Interested in what I do? Check out my top projects:
 
 [![OpenRichPresence API](https://github-readme-stats.vercel.app/api/pin/?username=OpenRichPresence&repo=api&show_owner=true&theme=buefy)](https://github.com/OpenRichPresence/api)
-[![Flight](https://github-readme-stats.vercel.app/api/pin/?username=bradw&repo=Flight&show_owner=true&theme=buefy)](https://github.com/OpenRichPresence/api)
+[![Flight](https://github-readme-stats.vercel.app/api/pin/?username=bradw&repo=Flight&show_owner=true&theme=buefy)](https://github.com/bradw/Flight)
